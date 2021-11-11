@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+html, body {
+  	height: 980px;
+	width:100%;
+}
+body {
+	margin: 0;
+	text-align: center;
+	/* background-color: rgba(255, 255, 255, 0.925); */
+	
+}
+
+.container2 {
+	height:980px;
+	background-image: url("./Untitled_Design.png");
+	background-repeat: no-repeat;
+	background-size: 125%;
+	padding-top: 30px;
+	margin: auto;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+.header{
+	font-family: 'Roboto',Arial, Helvetica, sans-serif;
+}
+.heading{
+	color: rgb(218, 152, 99);
+	font-family:'Fira Sans', sans-serif;
+	font-size: 30px;
+}
+.liner{
+	color:whitesmoke;
+}
+.box{
+	border-radius: 15px;
+}
