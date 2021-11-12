@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Video_Meeting_App/static/css/main.6e4a6853.chunk.css",
-    "main.js": "/Video_Meeting_App/static/js/main.f5c2c9eb.chunk.js",
-    "main.js.map": "/Video_Meeting_App/static/js/main.f5c2c9eb.chunk.js.map",
+    "main.js": "/Video_Meeting_App/static/js/main.985458a9.chunk.js",
+    "main.js.map": "/Video_Meeting_App/static/js/main.985458a9.chunk.js.map",
     "runtime-main.js": "/Video_Meeting_App/static/js/runtime-main.21cbe05b.js",
     "runtime-main.js.map": "/Video_Meeting_App/static/js/runtime-main.21cbe05b.js.map",
     "static/css/2.e2e32dfd.chunk.css": "/Video_Meeting_App/static/css/2.e2e32dfd.chunk.css",
-    "static/js/2.1e0e98ca.chunk.js": "/Video_Meeting_App/static/js/2.1e0e98ca.chunk.js",
-    "static/js/2.1e0e98ca.chunk.js.map": "/Video_Meeting_App/static/js/2.1e0e98ca.chunk.js.map",
+    "static/js/2.045b37a9.chunk.js": "/Video_Meeting_App/static/js/2.045b37a9.chunk.js",
+    "static/js/2.045b37a9.chunk.js.map": "/Video_Meeting_App/static/js/2.045b37a9.chunk.js.map",
     "index.html": "/Video_Meeting_App/index.html",
-    "precache-manifest.ae4f81affc5723ed20f6da56512300fb.js": "/Video_Meeting_App/precache-manifest.ae4f81affc5723ed20f6da56512300fb.js",
+    "precache-manifest.8f5886eaf1e81b3b2672f8cb5e83f74f.js": "/Video_Meeting_App/precache-manifest.8f5886eaf1e81b3b2672f8cb5e83f74f.js",
     "service-worker.js": "/Video_Meeting_App/service-worker.js",
     "static/css/2.e2e32dfd.chunk.css.map": "/Video_Meeting_App/static/css/2.e2e32dfd.chunk.css.map",
     "static/css/main.6e4a6853.chunk.css.map": "/Video_Meeting_App/static/css/main.6e4a6853.chunk.css.map",
-    "static/js/2.1e0e98ca.chunk.js.LICENSE.txt": "/Video_Meeting_App/static/js/2.1e0e98ca.chunk.js.LICENSE.txt",
+    "static/js/2.045b37a9.chunk.js.LICENSE.txt": "/Video_Meeting_App/static/js/2.045b37a9.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/Video_Meeting_App/static/media/Untitled_Design.becc8dde.png"
   },
   "entrypoints": [
     "static/js/runtime-main.21cbe05b.js",
     "static/css/2.e2e32dfd.chunk.css",
-    "static/js/2.1e0e98ca.chunk.js",
+    "static/js/2.045b37a9.chunk.js",
     "static/css/main.6e4a6853.chunk.css",
-    "static/js/main.f5c2c9eb.chunk.js"
+    "static/js/main.985458a9.chunk.js"
   ]
 }
